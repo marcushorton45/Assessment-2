@@ -93,7 +93,7 @@ console.log(calcFinalPrice(summedPrice, 4.99, .06))
 /*
     TEXT ANSWER HERE
 
-    I chose these 5 proporties because these are all things that could pertain to an account for any restaraunt. The 'name' porperty will take a string, the 'birthdate' property will take a number, the 'phoneNumber' property will take a number, the 'email" property will take a string, and the 'referred' property will take a boolean and will determine whether or not the customer was referred by someone to make an account.
+    I chose these 5 proporties because these are all things that could pertain to an account for any restaraunt or company. The 'name' porperty will take a string, the 'birthdate' property will take a number, the 'phoneNumber' property will take a number, the 'email" property will take a string, and the 'referred' property will take a boolean and will determine whether or not the customer was referred by someone to make an account.
 
 */
 
