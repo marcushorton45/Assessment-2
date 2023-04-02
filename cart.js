@@ -104,12 +104,10 @@ console.log(calcFinalPrice(summedPrice, 4.99, .06))
 
 //CODE HERE
 
-class customer {
-    constructor(name, birthdate, phoneNumber, email, referred){
-        this.name = name
-        this.birthdate = birthdate
-        this.phoneNumber = phoneNumber
-        this.email = email
-        this.referred = referred
-    }
+const customer = {
+    name: "John Smith", //string
+    birhtdate: 3/16/2002, //number
+    phoneNumber: 801-123-4567, //number
+    email: "johnsmith@gmail.com", //string
+    referred: true //boolean
 }
